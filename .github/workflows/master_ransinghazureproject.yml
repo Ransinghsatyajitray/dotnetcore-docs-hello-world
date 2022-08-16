@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ransinghazureproject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D0C9D968E4C4E2B951AB28B6C518D1E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1149C1AD32D94EC3B791789C04999EAA }}
           package: .
